@@ -119,11 +119,11 @@ export default function RootLayout({
               height="50"
               alt="icon of this photo album app"
             />
-            Ajmal Khan Photos
+            AI Photos App
             <div className="ml-auto flex items-center space-x-4">
               <Avatar>
                 <AvatarImage
-                  src="https://github.com/shadcn.png"
+                  src="./pic1.jpeg"
                   alt="@shadcn"
                 />
                 <AvatarFallback>CN</AvatarFallback>
